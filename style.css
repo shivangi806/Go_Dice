@@ -1,0 +1,90 @@
+.container {
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    background-color: black;
+    background-image: url(https://wallpapercave.com/dwp2x/wp6905211.jpg);
+    background-repeat:no-repeat ;
+  }
+  
+  .dice {
+    text-align: center;
+    display: inline-block;
+  
+  }
+  
+  body {
+    background-color: black;
+    background-image: url(https://wallpapercave.com/dwp2x/wp6905211.jpg);
+    background-repeat:no-repeat ;
+    width: 100%;
+    margin: auto;
+    
+  }
+  
+  h1 {
+    margin: 30px;
+    font-family: 'Lobster', cursive;
+    text-shadow: 5px 0 solid white;
+    font-size: 650%;
+    color: whitesmoke;
+  }
+  
+  p {
+    font-size: 200%;
+    color: #4ECCA3;
+    font-family: 'Indie Flower', cursive;
+  }
+  
+  img {
+    width: 80%;
+  }
+  
+  footer {
+    margin-top: 5%;
+    color: #EEEEEE;
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+  
+  }
+  
+  .btn {
+    background: #f21322;
+    background-image: -webkit-linear-gradient(top, #f21322, #ba0713);
+    background-image: -moz-linear-gradient(top, #f21322, #ba0713);
+    background-image: -ms-linear-gradient(top, #f21322, #ba0713);
+    background-image: -o-linear-gradient(top, #f21322, #ba0713);
+    background-image: linear-gradient(to bottom, #f21322, #ba0713);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Courier New;
+    color: #f2e9f2;
+    font-size: 27px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #4c4d3e;
+    background-image: -webkit-linear-gradient(top, #4c4d3e, #2b3338);
+    background-image: -moz-linear-gradient(top, #4c4d3e, #2b3338);
+    background-image: -ms-linear-gradient(top, #4c4d3e, #2b3338);
+    background-image: -o-linear-gradient(top, #4c4d3e, #2b3338);
+    background-image: linear-gradient(to bottom, #4c4d3e, #2b3338);
+    text-decoration: none;
+  }
+  .rf{
+    margin: 30px;
+    font-family: 'Lobster', cursive;
+    text-shadow: 5px 0 solid white;
+    font-size: 300%;
+    color: whitesmoke;
+  }
+  .let{
+    margin: 30px;
+    font-family: 'Lobster', cursive;
+    text-shadow: 5px 0 solid white;
+    font-size: 400%;
+    color: whitesmoke;
+  }
